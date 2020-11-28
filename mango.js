@@ -7,7 +7,7 @@ class Mango{
         }
         this.body = Bodies.circle(x, y, diametre , options);
         this.diametre=diametre;
-        this.image = loadImage("Images/mango.png");
+        this.image = loadImage("mango.png");
         World.add(world, this.body);
       }
       display(){
