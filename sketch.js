@@ -9,8 +9,8 @@ var stones;
 var mango1, mango2, mango3, mango4, mango5, mango6, maango7, mango8, mango9, mango10;
 
 function preload(){
-	treeimg=loadImage("Images/tree.png");
-	boyimg=loadImage("Images/boy.png");
+	treeimg=loadImage("tree.png");
+	boyimg=loadImage("boy.png");
 }
 
 function setup() {
